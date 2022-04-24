@@ -1,0 +1,26 @@
+[gd_scene load_steps=2 format=3 uid="uid://bwr565trar61b"]
+
+[ext_resource type="Theme" uid="uid://dk50diu5gschr" path="res://Theming/OptionButton/OptionButton_theme.tres" id="1_vexm6"]
+
+[node name="Node2D" type="Control"]
+theme = ExtResource( "1_vexm6" )
+
+[node name="OptionButton" type="OptionButton" parent="."]
+offset_left = 82.0
+offset_top = 71.0
+offset_right = 271.0
+offset_bottom = 127.0
+item_count = 5
+popup/item_0/text = "Test1"
+popup/item_0/id = 0
+popup/item_1/text = "Test2"
+popup/item_1/id = 1
+popup/item_2/text = "Test3"
+popup/item_2/id = 2
+popup/item_3/text = ""
+popup/item_3/id = 3
+popup/item_3/separator = true
+popup/item_4/text = "Test4"
+popup/item_4/id = 4
+metadata/_edit_layout_mode = 0
+metadata/_edit_use_custom_anchors = false
