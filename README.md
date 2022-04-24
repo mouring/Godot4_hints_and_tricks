@@ -6,6 +6,6 @@ This is a working set of documents and I plan on adding examples of code when us
 
 Topics
 
-* [Theming](Theming/README.md)
-* [Design Patterns](Design_Patterns/README.md)
+* [Theming](Theming/)
+* [Design Patterns](Design_Patterns/)
 

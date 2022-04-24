@@ -48,7 +48,7 @@ In this directory you'll find all the classes that can be themed within Godot an
 * LinkButton
 * MarginContainer
 * MenuButton
-* [OptionButton](OptionButton/README.md) (aka DropDown)
+* [OptionButton](OptionButton/) (aka DropDown)
  	* Button
  	* PopupMenu
 * Panel
